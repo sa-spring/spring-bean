@@ -1,11 +1,11 @@
-package sawspring.springbean;
+package com.example.bean;
+
+import com.example.bean.domain.Address;
+import com.example.bean.domain.Company;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-
-import sawspring.springbean.domain.Address;
-import sawspring.springbean.domain.Company;
 
 
 @Configuration

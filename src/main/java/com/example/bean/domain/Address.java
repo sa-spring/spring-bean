@@ -1,4 +1,4 @@
-package sawspring.springbean.domain;
+package com.example.bean.domain;
 
 public class Address {
     
